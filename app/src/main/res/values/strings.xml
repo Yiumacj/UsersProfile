@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YiumacjsApp</string>
+    <string name="name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="subscribe_text">Subscription</string>
+    <string name="apply_button">Apply</string>
+    <string name="summary_title">Summary</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="age_label">Age: %d</string>
+</resources>
